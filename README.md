@@ -1,16 +1,20 @@
-# Data Analyst
+### Data Analyst
 ## Skills
 # Soft Skills
 Analytical Thinking , Problem-Solving , Communication , Collaboration , Attention to Detail ,Time Management
 Curiosity , Adaptability , Critical Thinking , Business Acumen , Empathy , Ethical Consideration
 
-Programming Languages: Python, Sql
+# Programming Languages: 
+Python, Sql
 
-Libraries/Frameworks: Pandas, Numpy, Matplotlib, Seaborn, Scikit learn, NLTK
+# Libraries/Frameworks: 
+Pandas, Numpy, Matplotlib, Seaborn, Scikit learn, NLTK
 
-Tools / Platforms: Tableau, PowerBI, Microsoft Oce, SPSS, MySQL
+# Tools / Platforms: 
+Tableau, PowerBI, Microsoft Oce, SPSS, MySQL
 
-Databases: Relational Databases
+# Databases:
+Relational Databases
 
 ## Education
 
