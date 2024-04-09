@@ -83,7 +83,7 @@ superstore data. Additionally, developed and trained a Linear Regression model t
 based on identified patterns and variables. Through collaboration with the client, you ensured alignment
 of analysis and models with their unique business objectives.
 
-Link(https://www.linkedin.com/feed/update/urn:li:activity:7178131306281615360)
+[Link](https://www.linkedin.com/feed/update/urn:li:activity:7178131306281615360)
 
 ### IPL Data Analysis | Tableau SQL Pyhton
 Developed a comprehensive Tableau dashboard analyzing IPL data, unveiling key insights into team
