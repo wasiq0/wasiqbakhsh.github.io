@@ -1,4 +1,4 @@
-<img width="728" alt="image" src="https://github.com/wasiq0/wasiqbakhsh.github.io/assets/94306895/900e31b0-ac49-4632-8e25-dabe372b5cd7"># Data Analyst
+# Data Analyst
 ## Skills
 ### Soft Skills
 Analytical Thinking , Problem-Solving , Communication , Collaboration , Attention to Detail ,Time Management
