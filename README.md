@@ -1,4 +1,4 @@
-# Data Analyst
+<img width="728" alt="image" src="https://github.com/wasiq0/wasiqbakhsh.github.io/assets/94306895/900e31b0-ac49-4632-8e25-dabe372b5cd7"># Data Analyst
 ## Skills
 ### Soft Skills
 Analytical Thinking , Problem-Solving , Communication , Collaboration , Attention to Detail ,Time Management
@@ -126,6 +126,82 @@ The project not only sharpened my technical skills but also provided valuable in
 
 [Link to PDF](https://www.linkedin.com/feed/update/urn:li:activity:7168535576181252097/)
 
+### Pakistan 2024 Elections Dashboard
+
+Title: Analyzing the 2024 Elections in Pakistan: A Comprehensive Overview
+
+Introduction:
+Welcome to the Tableau dashboard offering an in-depth analysis of the highly consequential 2024 elections in Pakistan. This interactive visualization tool harnesses data extracted from the Dawn API, providing a multifaceted exploration of the electoral landscape during this pivotal moment in Pakistan's democratic history.
+
+Key Metrics and Features:
+
+Voter Turnout Dynamics:
+
+![Dashboard](assests/pak2024.png)
+Dive into voter turnout statistics to discern patterns of civic engagement across various regions and demographics.
+Identify factors influencing voter participation and areas with notable fluctuations in turnout rates.
+Explore temporal trends to understand the evolution of voter engagement throughout the electoral process.
+Candidate Performance and Political Party Dynamics:
+
+Analyze the performance of candidates and political parties, examining vote shares, seat distribution, and electoral margins.
+Utilize comparative tools to contrast the performance of incumbent parties with emerging political forces.
+Gain insights into voter preferences and the factors driving electoral success or failure for different candidates and parties.
+Regional Dynamics and Electoral Geography:
+
+Explore the electoral map of Pakistan, visualizing regional variations in voting behavior and outcomes.
+Examine district-level data to uncover electoral hotspots, swing constituencies, and areas of political significance.
+Identify demographic and socio-economic factors influencing voting patterns and electoral outcomes across different regions.
+Demographic Analysis and Voter Profile Insights:
+
+Conduct a nuanced analysis of the demographic composition of voters and candidates.
+Explore voter preferences based on age, gender, ethnicity, and socio-economic status, providing valuable insights for targeted outreach and policy formulation.
+Assess the representation of marginalized communities and minority groups in the electoral process, highlighting areas for inclusive democratic reforms.
+
+[VizLink](https://public.tableau.com/views/PakistanElectionsTrends2024/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
+
+### Tosha Khana Pakistan Analysis Dashbaord
+#### Title: Exploring Tosha Khana Pakistan: An Analytical Dashboard
+
+![Dasboard](assests/tosha.png)
+
+Introduction:
+Welcome to the Tosha Khana Pakistan Analysis Dashboard, an insightful tool meticulously crafted to delve into the intricacies of public fund management in Pakistan. This dashboard offers a detailed examination of Tosha Khana operations, shedding light on budget allocation, expenditure patterns, revenue generation, and the overall transparency and accountability of public finances.
+
+Key Metrics and Features:
+
+Budget Allocation and Expenditure Analysis:
+
+Explore the distribution of public funds across various sectors and government departments.
+Analyze expenditure trends to identify areas of priority and assess the effectiveness of resource allocation.
+Revenue Generation and Taxation Insights:
+
+Investigate the sources of government revenue, including taxes, customs duties, and other levies.
+Assess the impact of taxation policies on revenue generation and fiscal sustainability.
+Transparency and Accountability Measures:
+
+Evaluate the level of transparency in Tosha Khana operations, including budgetary disclosures and financial reporting.
+Examine mechanisms for accountability and oversight to ensure responsible use of public funds.
+Economic Impact Assessment:
+
+Examine the socioeconomic outcomes of Tosha Khana activities, such as infrastructure development and poverty alleviation.
+Evaluate the effectiveness of government expenditure in achieving sustainable development goals.
+Interactive Functionality and User Engagement:
+
+Real-time Data Visualization:
+
+Present dynamic visualizations of Tosha Khana data through interactive charts, graphs, and maps.
+Allow users to explore data in real-time and gain actionable insights for decision-making.
+Comparative Analysis Tools:
+
+Enable users to compare Tosha Khana performance over different time periods or geographic regions.
+Provide benchmarks against international standards to assess performance and identify areas for improvement.
+Scenario Planning and Forecasting Capabilities:
+
+Empower stakeholders to conduct scenario planning exercises and forecast future trends in Tosha Khana operations.
+Facilitate risk assessment and mitigation strategies to ensure fiscal resilience.
+
+[VizLink](https://public.tableau.com/views/toshakhanaanalysis/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Certifications
 
