@@ -83,7 +83,7 @@ superstore data. Additionally, developed and trained a Linear Regression model t
 based on identified patterns and variables. Through collaboration with the client, you ensured alignment
 of analysis and models with their unique business objectives.
 
-Link(https://www.linkedin.com/feed/update/urn:li:activity:7178131306281615360/)
+Link(https://www.linkedin.com/feed/update/urn:li:activity:7178131306281615360)
 
 ### IPL Data Analysis | Tableau SQL Pyhton
 Developed a comprehensive Tableau dashboard analyzing IPL data, unveiling key insights into team
@@ -131,7 +131,7 @@ After filtering out the most frequently used words using Python, I transformed t
 This project showcases my expertise in data extraction, analysis, and visualization, as well as my passion for exploring important topics like climate change and human progress. 🌱💡
 
 [Viz Link](https://public.tableau.com/app/profile/wasiq6891/viz/WordcloudbbcvideowithBillgates/Wordcloud)
-![Word Cloud](assests/WordcloudbbcvideowithBillgates.png)
+![Word Cloud](assests/Wordcloud.png)
 
 ### Play Store Health Products Web Scrapping | Python (Pandas , Google_Play_Scraper)
 
