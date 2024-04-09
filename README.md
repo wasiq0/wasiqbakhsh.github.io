@@ -38,7 +38,7 @@ stakeholders with real-time insights for informed decision-making.
 Identified trends and patterns in marketing data to optimize marketing strategies, resulting in a 25%
 increase in lead generation.
 
-Collaborated with cross-functional teams to interpret data ndings and develop actionable
+Collaborated with cross-functional teams to interpret data Findings and develop actionable
 recommendations for campaign optimization and budget allocation.
 
 ### Abaseen Laboratory | Associate Data Analyst Peshwar, PAKISTAN | Sep 23 - March 24
@@ -75,21 +75,24 @@ analysis.
 
 ## Projects / Open-Source
 
-### Superstore Exploratory Data Analysis and Model Training | Link Python
+### Superstore Exploratory Data Analysis and Model Training | Python
 (Pandas,Seaborn,Matplotlib,KNN Regressor)
+
 Conducted Exploratory Data Analysis (EDA) to understand trends, correlations, and anomalies in
 superstore data. Additionally, developed and trained a Linear Regression model to forecast gross income
 based on identied patterns and variables. Through collaboration with the client, you ensured alignment
 of analysis and models with their unique business objectives.
 
-### Play Store Health Products Web Scrapping | Link Python (Pandas , Google_Play_Scraper)
-Unveil insights from health apps on Google Play Store! Utilized advanced web scraping for
-comprehensive data gathering. Uncovered fascinating trends in user behaviour and feature popularity
+Link(https://www.linkedin.com/feed/update/urn:li:activity:7178131306281615360/)
 
-### IPL Data Analysis | Link Tableau SQL Pyhton
+### IPL Data Analysis | Tableau SQL Pyhton
 Developed a comprehensive Tableau dashboard analyzing IPL data, unveiling key insights into team
 performance and player trends. Leveraged data visualization techniques to present intricate cricket
-analytics eectively.
+analytics efectively.
+
+[VizLink](https://public.tableau.com/app/profile/wasiq6891/viz/IPLDashboard_17124079239120/Dashboard1)
+![IPL_Dashboard](assests/ipl.png)
+
 
 ### Bitcoin Trends Forecasting | Python Tableau
 Leveraged Yahoo Finance API (yFinance) to meticulously extract and analyze Bitcoin data, culminating
@@ -102,6 +105,10 @@ Applied advanced analytical techniques to forecast Bitcoin's performance for the
 valuable insights crucial for strategic planning and navigating the dynamic landscape of the
 cryptocurrency market.
 
+[VizLink](https://public.tableau.com/app/profile/wasiq6891/viz/BitcoinPriceForcasting/Dashboard1)
+![BitcoinForcasting_Dashboard](assests/bitcoins.png)
+
+
 ### Unnveiling Insights from Youtube Comments | Pyhton ETL Tableau 
 
 I delved into the vibrant world of YouTube analytics! 🚀 Leveraging the YouTube Data API, I embarked on a journey through the latest video by Pakistan's top content creator, Ducky Bhai. 🎥 With data in hand, I traversed the intricate landscapes of sentiment analysis, transforming raw comments into insights that paint a vivid picture of audience engagement and emotion.
@@ -110,9 +117,52 @@ But it didn't stop there. Armed with insights, I ventured into the realm of data
 
 As I reflect on this journey, I'm reminded of the power of data to illuminate pathways to understanding and connection. Through the lens of YouTube analytics, I invite you to join me in exploring the rich tapestry of audience sentiment and engagement, where insights pave the way for meaningful storytelling. 📊✨ 
 
+[KaggleLink](https://lnkd.in/dWzeq2Fm)
+
+### Unnveiling Insights from Youtube Comments (2) | Pyhton ETL Tableau 
+###COP28: Bill Gates on climate optimism, wealth and the human condition
+Project leveraging Python, Tableau, and the YouTube API! 📊✨
+Using Python, I extracted comments from the insightful BBC video "COP28: Bill Gates on climate optimism, wealth and the human condition." 🌍💬
+After filtering out the most frequently used words using Python, I transformed the data into an engaging word cloud visualization using Tableau. 🎨☁️
+This project showcases my expertise in data extraction, analysis, and visualization, as well as my passion for exploring important topics like climate change and human progress. 🌱💡
+
+![Word_Cloud](assests/Wordcloud bbc video with Billgates.png)
+
+### Play Store Health Products Web Scrapping | Python (Pandas , Google_Play_Scraper)
+Unveil insights from health apps on Google Play Store! Utilized advanced web scraping for
+comprehensive data gathering. Uncovered fascinating trends in user behaviour and feature popularity
+[kaggle notebook link](https://lnkd.in/drk7bGkw)
+
+
+###  Web Scraping & EDA on Punjab Universities 🎓
+🔍 Project Overview:
+I recently completed a fascinating project where I delved into the world of Punjab universities, combining web scraping and exploratory data analysis (EDA) to uncover insights into the education landscape. 🌐
+
+💻 Web Scraping:
+Utilizing web scraping techniques, I gathered comprehensive data on universities in Punjab, extracting valuable information on campuses, programs, and more. 🚀
+
+📈 Exploratory Data Analysis (EDA):
+With a keen eye for patterns and trends, I conducted in-depth exploratory data analysis on the collected dataset. Visualizations, statistical analysis, and data-driven insights were employed to unravel key aspects of the educational institutions. 📊
+
+🏆 Key Achievements:
+Identified the top universities based on the number of campuses.
+Explored the distribution of academic programs across different institutions.
+Unearthed interesting correlations and trends within the educational data.
+
+🔗 Skills Demonstrated:
+Web Scraping, Data Cleaning, Exploratory Data Analysis, Data Visualization, Python, Pandas, Seaborn.
+
+🌐 Impact:
+The project not only sharpened my technical skills but also provided valuable insights into the educational ecosystem of Punjab. Sharing this journey on LinkedIn to connect with fellow data enthusiasts and professionals in the education sector. 🤝
+
+[Link to PDF](https://www.linkedin.com/feed/update/urn:li:activity:7168535576181252097/)
+
 
 ## Certifications
 Google Data Analytics - Coursera
+
 IBM Data Analysis with Pyhton - Coursera
+
 Getting Started with Data Analytics on AWS - Coursera
+
 Fundamentals of Visualization with Tableau - Coursera
