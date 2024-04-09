@@ -48,7 +48,7 @@ Implemented improved data visualization techniques, leading to a 15% reduction i
 analysis.
 
 Collaborated with the team to develop and monitor KPIs, resulting in a 25% increase in overall
-operational eciency.
+operational eficiency.
 
 ### Fiver | Business Analyst Peshawar, PAKISTAN | Jan 23 - Present
 
@@ -80,7 +80,7 @@ analysis.
 
 Conducted Exploratory Data Analysis (EDA) to understand trends, correlations, and anomalies in
 superstore data. Additionally, developed and trained a Linear Regression model to forecast gross income
-based on identied patterns and variables. Through collaboration with the client, you ensured alignment
+based on identified patterns and variables. Through collaboration with the client, you ensured alignment
 of analysis and models with their unique business objectives.
 
 Link(https://www.linkedin.com/feed/update/urn:li:activity:7178131306281615360/)
@@ -115,26 +115,34 @@ I delved into the vibrant world of YouTube analytics! 🚀 Leveraging the YouTub
 
 But it didn't stop there. Armed with insights, I ventured into the realm of data visualization, crafting captivating graphs that breathe life into the digital dialogue. From dynamic sentiment distribution charts to mesmerizing word clouds capturing the essence of viewer discourse, each visualization tells a story waiting to be discovered.
 
-As I reflect on this journey, I'm reminded of the power of data to illuminate pathways to understanding and connection. Through the lens of YouTube analytics, I invite you to join me in exploring the rich tapestry of audience sentiment and engagement, where insights pave the way for meaningful storytelling. 📊✨ 
+As I reflect on this journey, I'm reminded of the power of data to illuminate pathways to understanding and connection.
 
 [KaggleLink](https://lnkd.in/dWzeq2Fm)
 
 ### Unnveiling Insights from Youtube Comments (2) | Pyhton ETL Tableau 
-###COP28: Bill Gates on climate optimism, wealth and the human condition
+
+### COP28: Bill Gates on climate optimism, wealth and the human condition
+
 Project leveraging Python, Tableau, and the YouTube API! 📊✨
 Using Python, I extracted comments from the insightful BBC video "COP28: Bill Gates on climate optimism, wealth and the human condition." 🌍💬
+
 After filtering out the most frequently used words using Python, I transformed the data into an engaging word cloud visualization using Tableau. 🎨☁️
+
 This project showcases my expertise in data extraction, analysis, and visualization, as well as my passion for exploring important topics like climate change and human progress. 🌱💡
 
-![Word_Cloud](assests/Wordcloud bbc video with Billgates.png)
+[Viz Link](https://public.tableau.com/app/profile/wasiq6891/viz/WordcloudbbcvideowithBillgates/Wordcloud)
+![Word Cloud](assests/WordcloudbbcvideowithBillgates.png)
 
 ### Play Store Health Products Web Scrapping | Python (Pandas , Google_Play_Scraper)
+
 Unveil insights from health apps on Google Play Store! Utilized advanced web scraping for
 comprehensive data gathering. Uncovered fascinating trends in user behaviour and feature popularity
+
 [kaggle notebook link](https://lnkd.in/drk7bGkw)
 
 
 ###  Web Scraping & EDA on Punjab Universities 🎓
+
 🔍 Project Overview:
 I recently completed a fascinating project where I delved into the world of Punjab universities, combining web scraping and exploratory data analysis (EDA) to uncover insights into the education landscape. 🌐
 
@@ -159,6 +167,7 @@ The project not only sharpened my technical skills but also provided valuable in
 
 
 ## Certifications
+
 Google Data Analytics - Coursera
 
 IBM Data Analysis with Pyhton - Coursera
