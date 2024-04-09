@@ -1,18 +1,33 @@
 # Data Analyst
+## Skills
+# Soft Skills
+Analytical Thinking , Problem-Solving , Communication , Collaboration , Attention to Detail ,Time Management
+Curiosity , Adaptability , Critical Thinking , Business Acumen , Empathy , Ethical Consideration
+
+Programming Languages: Python, Sql
+
+Libraries/Frameworks: Pandas, Numpy, Matplotlib, Seaborn, Scikit learn, NLTK
+
+Tools / Platforms: Tableau, PowerBI, Microsoft Oce, SPSS, MySQL
+
+Databases: Relational Databases
+
 ## Education
-Institute of Managment Sciences Peshawar, PAKISTAN
+
+# Institute of Managment Sciences Peshawar, PAKISTAN
 Data Science Bachelors July 2021 - Present
 CGPA: 3.2
 
-Peshawar Model Degree College Peshawar, PAKISTAN
+# Peshawar Model Degree College Peshawar, PAKISTAN
 Pre Medical Fsc July 2019 - July 2021
 Percentage: 80%
 
-Edwardes College School Peshawar, PAKISTAN
+# Edwardes College School Peshawar, PAKISTAN
 Degree in Olevels July 2015 - July 2018
 
 ## Experience
 # House of Brands Media | Data Analyst Lisbon, Portugal | Feb 2024 - Apr 2024
+
 Developed Tableau dashboards to monitor key marketing KPIs and performance metrics, providing
 stakeholders with real-time insights for informed decision-making.
 Identied trends and patterns in marketing data to optimize marketing strategies, resulting in a 25%
@@ -21,6 +36,7 @@ Collaborated with cross-functional teams to interpret data ndings and develop a
 recommendations for campaign optimization and budget allocation.
 
 # Abaseen Laboratory | Associate Data Analyst Peshwar, PAKISTAN | Sep 23 - March 24
+
 Identied patterns for diseases through data analysis, resulting in a 20% increase in diagnostic accuracy.
 Implemented improved data visualization techniques, leading to a 15% reduction in time required for
 analysis.
@@ -28,26 +44,25 @@ Collaborated with the team to develop and monitor KPIs, resulting in a 25% incre
 operational eciency.
 
 # Fiver | Business Analyst Peshawar, PAKISTAN | Jan 23 - Present
+
 Completed over 50 projects with a 5-star rating on Fiverr, achieving Level 2 seller status for consistently
 delivering high-quality work.
+
 Specialized in creating Tableau dashboards and providing data analysis services across diverse industries
 including nance, healthcare, marketing, and human resources.
+
 Successfully collaborated with clients to understand their unique business needs and deliver customized
 solutions tailored to their specic requirements.
+
 Received positive feedback from clients for delivering actionable insights and helping them make
 data-driven decisions to improve operational eciency and drive business growth.
 
 # Forage | Data Analyst Intern Apr 23 - Apr 23
+
 Successfully completed an internship at Foarge, where I worked on a data case study project.
 Utilized analytical skills to analyze data and identify insights relevant to the case study objectives.
 Collaborated with team members to develop data-driven solutions and recommendations based on the
 analysis.
-
-## Skills
-Programming Languages: Python, Sql
-Libraries/Frameworks: Pandas, Numpy, Matplotlib, Seaborn, Scikit learn, NLTK
-Tools / Platforms: Tableau, PowerBI, Microsoft Oce, SPSS, MySQL
-Databases: Relational Databases
 
 ## Projects / Open-Source
 # Superstore Exploratory Data Analysis and Model Training | Link Python
