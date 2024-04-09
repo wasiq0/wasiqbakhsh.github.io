@@ -11,7 +11,7 @@ Python, Sql
 Pandas, Numpy, Matplotlib, Seaborn, Scikit learn, NLTK
 
 ### Tools / Platforms: 
-Tableau, PowerBI, Microsoft Oce, SPSS, MySQL
+Tableau, PowerBI, Microsoft Offce, SPSS, MySQL
 
 ### Databases:
 Relational Databases
