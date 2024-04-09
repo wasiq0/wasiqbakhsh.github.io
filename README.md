@@ -22,14 +22,7 @@ Relational Databases
 Data Science Bachelors July 2021 - Present
 CGPA: 3.2
 
-### Peshawar Model Degree College Peshawar, PAKISTAN
-Pre Medical Fsc July 2019 - July 2021
-Percentage: 80%
-
-### Edwardes College School Peshawar, PAKISTAN
-Degree in Olevels July 2015 - July 2018
-
-## Experience
+## Latest Experience
 ### House of Brands Media | Data Analyst Lisbon, Portugal | Feb 2024 - Apr 2024
 
 Developed Tableau dashboards to monitor key marketing KPIs and performance metrics, providing
@@ -40,38 +33,6 @@ increase in lead generation.
 
 Collaborated with cross-functional teams to interpret data Findings and develop actionable
 recommendations for campaign optimization and budget allocation.
-
-### Abaseen Laboratory | Associate Data Analyst Peshwar, PAKISTAN | Sep 23 - March 24
-
-Identied patterns for diseases through data analysis, resulting in a 20% increase in diagnostic accuracy.
-Implemented improved data visualization techniques, leading to a 15% reduction in time required for
-analysis.
-
-Collaborated with the team to develop and monitor KPIs, resulting in a 25% increase in overall
-operational eficiency.
-
-### Fiver | Business Analyst Peshawar, PAKISTAN | Jan 23 - Present
-
-Completed over 50 projects with a 5-star rating on Fiverr, achieving Level 2 seller status for consistently
-delivering high-quality work.
-
-Specialized in creating Tableau dashboards and providing data analysis services across diverse industries
-including nance, healthcare, marketing, and human resources.
-
-Successfully collaborated with clients to understand their unique business needs and deliver customized
-solutions tailored to their specic requirements.
-
-Received positive feedback from clients for delivering actionable insights and helping them make
-data-driven decisions to improve operational eciency and drive business growth.
-
-### Forage | Data Analyst Intern Apr 23 - Apr 23
-
-Successfully completed an internship at Foarge, where I worked on a data case study project.
-
-Utilized analytical skills to analyze data and identify insights relevant to the case study objectives.
-
-Collaborated with team members to develop data-driven solutions and recommendations based on the
-analysis.
 
 ## Projects / Open-Source
 
